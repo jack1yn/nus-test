@@ -8,3 +8,5 @@ I am adding some text here
 * and this is another!
 
 ### This is a smallest text here
+
+![]{sentosa.jpg}
