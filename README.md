@@ -9,4 +9,4 @@ I am adding some text here
 
 ### This is a smallest text here
 
-![]{sentosa.jpg}
+![](sentosa.jpg)
